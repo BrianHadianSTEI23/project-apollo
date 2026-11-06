@@ -1,0 +1,6 @@
+[submodule "project-haphaestus"]
+	path = project-haphaestus
+	url = git@github.com:BrianHadianSTEI23/project-haphaestus.git
+[submodule "project-athena"]
+	path = project-athena
+	url = git@github.com:BrianHadianSTEI23/project-athena.git
